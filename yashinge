@@ -2,4 +2,5 @@
 void main()
 {
 print("hello world")
+print("\nthis is a basic program")
 }
